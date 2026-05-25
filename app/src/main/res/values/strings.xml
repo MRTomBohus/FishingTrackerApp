@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Fishing Tracker</string>
+
+    <string name="home_title">Fishing Tracker</string>
+    <string name="home_subtitle">Record and manage your catches</string>
+
+    <string name="add_catch">Add Catch</string>
+    <string name="my_catches">My Catches</string>
+    <string name="statistics">Statistics</string>
+    <string name="map_spots">Map &amp; Spots</string>
+
+    <string name="catch_detail">Catch Detail</string>
+    <string name="edit_catch">Edit Catch</string>
+
+    <string name="save_catch">Save Catch</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="delete_catch">Delete Catch</string>
+    <string name="back">Back</string>
+
+    <string name="fish_type">Fish type</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="length_cm">Length (cm)</string>
+    <string name="location">Fishing spot / Location</string>
+    <string name="bait">Bait</string>
+
+    <string name="no_catches_saved">No catches saved yet.</string>
+    <string name="add_first_catch_hint">Add your first catch from the home screen.</string>
+    <string name="no_statistics_available">No statistics available yet. Add your first catch.</string>
+    <string name="catch_not_found">Catch not found.</string>
+
+    <string name="fill_required_fields">Please fill all required fields.</string>
+    <string name="weight_positive_error">Weight must be a positive number.</string>
+    <string name="length_positive_error">Length must be a positive number.</string>
+    <string name="catch_saved">Catch saved.</string>
+
+    <string name="total_catches">Total catches</string>
+    <string name="biggest_catch">Biggest catch</string>
+    <string name="most_common_fish">Most common fish</string>
+    <string name="no_catches">No catches</string>
+
+    <string name="mso_zilina_spots">MSO Žilina fishing spots</string>
+    <string name="available_spots">Available spots</string>
+
+    <string name="weight_label">Weight: %1$.2f kg</string>
+    <string name="length_label">Length: %1$.2f cm</string>
+    <string name="location_label">Location: %1$s</string>
+    <string name="bait_label">Bait: %1$s</string>
+    <string name="id_label">Id: %1$d</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_catches">Catches</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_spots">Spots</string>
+
+    <string name="home_welcome_title">Welcome back, angler!</string>
+    <string name="home_welcome_subtitle">Track your catches, fishing spots and progress in one simple app.</string>
+    <string name="home_quick_actions">Quick actions</string>
+
+    <string name="settings">Settings</string>
+    <string name="test_notification">Test notification</string>
+    <string name="notification_settings_description">Use this button to test Fishing Tracker reminder notifications.</string>
+    <string name="notification_sent">Notification was triggered.</string>
+
+    <string name="add_catch_description">Record a new fish</string>
+    <string name="my_catches_description">View all saved catches</string>
+    <string name="statistics_description">View your fishing insights</string>
+    <string name="map_spots_description">Browse fishing locations</string>
+
+    <string name="average_weight">Average weight</string>
+    <string name="average_length">Average length</string>
+    <string name="longest_catch">Longest catch</string>
+    <string name="kg_value">%1$.2f kg</string>
+    <string name="cm_value">%1$.1f cm</string>
+    <string name="catch_with_weight">%1$s\n%2$.2f kg</string>
+    <string name="catch_with_length">%1$s\n%2$.1f cm</string>
+
+    <string name="bait_badge">Bait: %1$s</string>
+
+    <string name="catch_information">Catch information</string>
+    <string name="fish_type_label">Fish type</string>
+
+    <string name="date">Date</string>
+    <string name="date_hint">dd.MM.yyyy</string>
+    <string name="released">Fish was released</string>
+    <string name="note">Note</string>
+    <string name="note_hint">Additional details about the catch</string>
+    <string name="invalid_date">Date must be in format dd.MM.yyyy.</string>
+    <string name="catch_form">Catch form</string>
+
+    <string name="released_status">Released</string>
+    <string name="kept_status">Kept</string>
+    <string name="status_label">Status</string>
+    <string name="note_label">Note</string>
+    <string name="no_note">No note added</string>
+    <string name="date_label_full">Date</string>
+
+    <string name="released_catches">Released</string>
+    <string name="kept_catches">Kept</string>
+    <string name="release_rate">Release rate</string>
+    <string name="percent_value">%1$.0f%%</string>
+
+    <string name="weather_for_spot">Weather for selected spot</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="fishing_condition">Fishing condition</string>
+    <string name="weather_loading">Loading weather...</string>
+    <string name="weather_error">Weather data could not be loaded.</string>
+    <string name="good_condition">Good</string>
+    <string name="average_condition">Average</string>
+    <string name="bad_condition">Bad</string>
+    <string name="temperature_value">%1$.1f °C</string>
+    <string name="wind_value">%1$.1f km/h</string>
+    <string name="precipitation_value">%1$.1f mm</string>
+
+    <string name="recommendation_good">Good fishing conditions. Low wind and low precipitation.</string>
+    <string name="recommendation_average">Average fishing conditions. Fishing is possible, but conditions are not ideal.</string>
+    <string name="recommendation_bad">Bad fishing conditions. Strong wind or precipitation may make fishing worse.</string>
+    <string name="weather_error_hint">Check your internet connection and try selecting the spot again.</string>
+    <string name="refresh_weather">Refresh weather</string>
+    <string name="search_spots">Search fishing spots</string>
+    <string name="no_spots_found">No fishing spots found.</string>
+    <string name="notification_channel_name">Catch reminders</string>
+    <string name="notification_reminder_text">Don\'t forget to record your latest fishing catch.</string>
+</resources>
